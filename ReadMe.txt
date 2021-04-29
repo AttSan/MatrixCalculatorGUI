@@ -1,3 +1,3 @@
 To run via command line:
- - javac ChooseOperation.java Matrix.java MatrixDemo.java
- - java MatrixDemo.java
+ - compile by running 'javac ChooseOperation.java Matrix.java MatrixDemo.java'
+ - run by 'java MatrixDemo.java'
